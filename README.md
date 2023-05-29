@@ -5,7 +5,7 @@
 
 ---
 
-### :man_technologist: Resource Management Associates: Software Programmer
+### Resource Management Associates: Software Programmer
 
 - Data access API's using JDBC and HTTP
 - Software automation using
