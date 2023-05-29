@@ -1,5 +1,12 @@
-### Hi there 👋
+###
+<div id="header" align="center">
+  <img src="assets/page-banner-contact.jpg" width="1200"/>
+</div>
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 <!--
 **adamkorynta/adamkorynta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
